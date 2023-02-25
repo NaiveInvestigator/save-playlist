@@ -9,11 +9,8 @@ Thanks to [@Goroto](https://github.com/garoto) (the deleted one) and [@jonniek](
 Place this script inside your `/scripts` folder.
 
 # How to use the script?
-To activate the script press `Alt + s`. This keybind can be changed also via your `input.conf`.
+To activate the script press `Alt + s`. 
 
-Instructions to do that is given below.
-
-# How to change keybind
 The keybinds for this script can be changed by placing the following lines in your ``input.conf``:  
 ```
 KEY script-binding save-playlist
